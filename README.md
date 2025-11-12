@@ -102,36 +102,13 @@ Performed using Pandas, NumPy, and Matplotlib.
 📁 Customer-Shopping-Behavior-Analysis/
 
 │
-
 ├── 📄 data/
-
 │   └── customer_shopping_data.csv
-
-│
-
-├── 🐍 notebooks/
-
-│   ├── data_cleaning_exploration.ipynb
-
 │  
-
-│
-
-├── 🧾 sql_queries
-
-│
-
-├── 📊 powerbi/
-
-│   └── Customer_Shopping_Dashboard.pbix
-
-│
-
-├── 📑 presentation/
-
-│   └── Customer_Shopping_Insights.pptx
-
-│
+│   ├── 🐍 data_cleaning_exploration.ipynb
+│   ├── 🧾 sql_queries
+│   ├──  📊 Customer_Shopping_Dashboard.pbix
+│   ├── 📑 Customer_Shopping_Insights.pptx
 └── README.md
 
 <h4>📚 Key Learnings</h4>
